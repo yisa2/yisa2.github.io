@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: yisa2.github.io
+url: https://yisa2.github.io
 date_format: "ordinal"
 title: yisa
 subtitle: "cpp"
